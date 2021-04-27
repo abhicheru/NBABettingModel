@@ -1,4 +1,4 @@
-# NBABettingModel
+# NBA Betting Model
 This is a Model that simulates spreads and over/unders for NBA games in the 2020-2021 season.
 
 Here is a breakdown of each file:
